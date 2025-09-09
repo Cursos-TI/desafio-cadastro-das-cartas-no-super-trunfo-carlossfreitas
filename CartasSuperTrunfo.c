@@ -75,7 +75,7 @@ int main() {
   // Área para exibição dos dados da cidade
   // ---CARTA 1---
   
-  printf("Carta: 1\n");
+  printf("\n\n\nCarta: 1\n");
   printf("Estado: %c\n",estado1);
   printf("Código: %c%s\n",estado1,codigo1);
   printf("Nome da Cidade: %s\n",nomeCidade1);
@@ -93,7 +93,7 @@ int main() {
   printf("População: %2d\n",populacao2);
   printf("Área: %2f Km²\n",area2);
   printf("PIB: %2f Bilhoes de Reais\n",pib2);
-  printf("Números de Pontos Turísticos: %d\n\n\n",pontosTuristicos2);
+  printf("Números de Pontos Turísticos: %d\n\n",pontosTuristicos2);
 
 
   
